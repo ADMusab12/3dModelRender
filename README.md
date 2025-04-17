@@ -10,7 +10,7 @@ An Android application built using Jetpack Compose and SceneView to showcase `.g
 
 ## 📸 Preview
 
-![3D Model Viewer GIF](https://github.com/user-attachments/assets/d0419a9c-c95c-4753-9986-8ae341c5b300)
+![3D Model Viewer GIF](![3d_model](https://github.com/user-attachments/assets/ec3c89cb-29c7-460f-9bab-2fab28d8fae6))
 
 
 ## 📂 How it works
